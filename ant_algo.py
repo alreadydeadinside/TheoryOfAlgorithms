@@ -113,5 +113,4 @@ def dual_referomon():
     for i in Tij_new:
         print(i)
 
-
 dual_referomon()
