@@ -89,6 +89,7 @@ def dual_referomon():
         new_second_path.append((second_path[i], second_path[i + 1]))
 
     print(new_first_path)
+
     print(new_second_path)
 
     for i in range(len(Tij_new)):
